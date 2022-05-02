@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Oscar
+- 👋 Hello!
+- <H1> My name is Oscar </>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Python projects, Django and data science
